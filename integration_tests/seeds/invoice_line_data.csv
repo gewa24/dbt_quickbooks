@@ -28,3 +28,4 @@ index,invoice_id,_fivetran_synced,amount,bundle_id,bundle_quantity,description,d
 1,60002,2021-02-10 12:00:00,600.00,149,2,,,,,,,,,,,,,,,,,,,,,,,GroupLineDetail
 2,60002,2021-02-10 12:00:00,900.00,,,,,,,,,,,,,,,,,,,,,,,,,SubTotalLineDetail
 0,60003,2021-02-10 12:00:00,75.00,150,1,,,,,,,,,,,,,,,,,,,,,,,GroupLineDetail
+0,96201,2024-01-20 00:00:00,30,,,,,,,,,,,,,,,9601,3,,,10,,,,,,SalesItemLineDetail

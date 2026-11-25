@@ -40,3 +40,6 @@ id,_fivetran_synced,account_number,account_sub_type,account_type,active,balance,
 94102,2026-02-10 12:00:00,9402,100fb8196b919896e083af2939bbffb3,Accounts Payable,TRUE,0,0,Liability,2026-02-10 00:00:00,GBP,Alternate GBP AP account to simulate multi-account ambiguity,Accounts Payable GBP Alt,Accounts Payable GBP Alt,,FALSE,1,,2026-02-10 12:00:00,FALSE
 95001,2021-01-01 12:00:00,4201,SalesOfProductIncome,Income,TRUE,0,0,Revenue,2021-01-01 12:00:00,USD,Product income account for an item in bundle 149,Product Sales,Product Sales,,FALSE,0,,2021-01-01 12:00:00,FALSE
 95002,2021-01-01 12:00:00,4202,SalesOfProductIncome,Income,TRUE,0,0,Revenue,2021-01-01 12:00:00,USD,Second product income account so bundle 149 maps to two,Product Sales 2,Product Sales 2,,FALSE,0,,2021-01-01 12:00:00,FALSE
+96001,2024-01-20 00:00:00,,Inventory,Other Current Asset,TRUE,,,Asset,2024-01-20 00:00:00,USD,,Inventory Asset,Inventory Asset,,FALSE,0,,2024-01-20 00:00:00,FALSE
+96002,2024-01-20 00:00:00,,SuppliesMaterialsCogs,Cost of Goods Sold,TRUE,,,Expense,2024-01-20 00:00:00,USD,,Cost of Goods Sold,Cost of Goods Sold,,FALSE,0,,2024-01-20 00:00:00,FALSE
+96003,2024-01-20 00:00:00,,SalesOfProductIncome,Income,TRUE,,,Revenue,2024-01-20 00:00:00,USD,,Sales of Product Income,Sales of Product Income,,FALSE,0,,2024-01-20 00:00:00,FALSE
